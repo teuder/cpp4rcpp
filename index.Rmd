@@ -11,7 +11,7 @@ description: "Rcppを使うために最低限必要なC++の知識を紹介し�
 
 # はじめに {-}
 
-このサイトは Rcpp を使うために最低限必要な C++ の知識を紹介することを目的としています　　。
+このサイトは Rcpp を使うために最低限必要な C++ の知識を紹介することを目的としています。
 
 Rcppのそのものの解説については [Introduction to Rcpp（日本語）](https://www.gitbook.com/book/teuder/introduction-to-rcpp/details/ja) を参照してください。
 
