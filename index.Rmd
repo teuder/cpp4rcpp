@@ -1,4 +1,20 @@
-# Rcpp のための C++ 入門
+--- 
+title: "RcppのためのC++入門"
+author: "Masaki Tsuda"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+# github-repo: (your-github-repository)
+description: "Rcppを使うために最低限必要なC++の知識"
+---
+
+# はじめに {-}
+
+このサイトは Rcpp を使うために最低限必要な C++ の知識を紹介することを目的としています。
+
+Rcppの解説については [Introduction to Rcpp（日本語）](https://www.gitbook.com/book/teuder/introduction-to-rcpp/details/ja) を参照してみてください。
+
 
 - 関数と変数
 
@@ -13,12 +29,15 @@
 		- ユーザー定義型
 
 		- 参照型
+		
 			→関数の引数
 
 		- 配列型（優先度低）
+		
 			→STL
 
 		- ポインタ型（優先度低）
+		
 			→イテレータ
 	
 	- 変数の初期化
@@ -43,7 +62,7 @@
 
 - 列挙型
 
-- クラスと構造体
+- 構造体とクラス
 
 	- メンバ変数
 
@@ -68,4 +87,5 @@
 	- アルゴリズム
 
 - 名前空間
+
 
